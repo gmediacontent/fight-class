@@ -1,2 +1,1 @@
-# Fight Class 3
-Un monde dans lequel la Corée est le Pays leader des sports de combats. Au lycée Nam-il où les meilleurs et plus talentueux élèves en arts martiaux étudient, Jiu Ji-tae se trouve soudainement entraîné avec eux alors qu'il n'est qu'un faiblard. En faisant disparaître ses défauts physiques à l'aide du Ju-Jitsu, pourra-t-il devenir le meilleur des classes de combat ?
+# fight-class
